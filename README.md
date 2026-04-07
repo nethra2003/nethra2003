@@ -5,6 +5,8 @@ I have hands-on experience in developing full-stack applications, REST APIs, and
 
 Along with technical skills, I bring strong problem-solving ability, teamwork, leadership, decision-making, and effective communication skills. I am passionate about continuous learning and adapting to new technologies to build impactful solutions.
 
+- 🌐 **Portfolio:** [nethra2003.github.io/Portfolio](https://nethra2003.github.io/Portfolio)
+- 📧 **Email:** [nethrahabib33@gmail.com](mailto:nethrahabib33@gmail.com)
 
 # 💻 Tech Stack:
 ### 🖥️ Programming Languages
