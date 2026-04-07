@@ -40,6 +40,7 @@ Along with technical skills, I bring strong problem-solving ability, teamwork, l
 ### 📊 Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://shields.io)
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
