@@ -16,9 +16,6 @@ Along with technical skills, I bring strong problem-solving ability, teamwork, l
 
 ### ⚙️ Backend Development
 ![Django](https://img.shields.io/badge/django-%23092E20.svg?style=for-the-badge&logo=django&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
-![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
-![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB)
 ![Flask](https://img.shields.io/badge/flask-%23000.svg?style=for-the-badge&logo=flask&logoColor=white)
 ![REST API](https://img.shields.io/badge/REST-API-orange?style=for-the-badge)
 
@@ -29,39 +26,38 @@ Along with technical skills, I bring strong problem-solving ability, teamwork, l
 
 ### 🗄️ Databases
 ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white)
 ![PostgreSQL](https://img.shields.io/badge/postgresql-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
 
 ### ☁️ Cloud Platforms
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
-![Google App Engine](https://img.shields.io/badge/Google_App_Engine-%234285F4.svg?style=for-the-badge&logo=google-cloud&logoColor=white)
 ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
 
 ### 📊 Data Science & Analytics
 ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white)
 ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white)
 ![Matplotlib](https://shields.io/badge/matplotlib-%23013243.svg?style=for-the-badge&logo=matplotlib&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![CNN](https://img.shields.io/badge/CNN-00897B?style=for-the-badge&logo=tensorflow&logoColor=white)
 
 ### 🧠 Core Concepts
 ![DSA](https://img.shields.io/badge/Data%20Structures%20%26%20Algorithms-blue?style=for-the-badge)
 ![OOP](https://img.shields.io/badge/Object%20Oriented%20Programming-purple?style=for-the-badge)
-![API Design](https://img.shields.io/badge/API%20Design-orange?style=for-the-badge)
-![SDLC](https://img.shields.io/badge/SDLC-red?style=for-the-badge)
 ![DBMS](https://img.shields.io/badge/DBMS-green?style=for-the-badge)
 ![Computer Networks](https://img.shields.io/badge/Computer%20Networks-grey?style=for-the-badge)
 ![Cloud Computing](https://img.shields.io/badge/Cloud%20Computing-blueviolet?style=for-the-badge)
 ![Artificial Intelligence](https://img.shields.io/badge/Artificial%20Intelligence-black?style=for-the-badge)
 ![Data Science](https://img.shields.io/badge/Data%20Science-darkgreen?style=for-the-badge)
 ![Data Analytics](https://img.shields.io/badge/Data%20Analytics-yellow?style=for-the-badge)
+![Deep Learning](https://img.shields.io/badge/Deep%20Learning-6A1B9A?style=for-the-badge&logo=python&logoColor=white)
 
 ### 🛠️ Tools
-![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)
 ![VS Code](https://img.shields.io/badge/vscode-%23007ACC.svg?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![PyCharm](https://img.shields.io/badge/pycharm-%23000000.svg?style=for-the-badge&logo=pycharm&logoColor=white)
 ![Jupyter](https://img.shields.io/badge/jupyter-%23F37626.svg?style=for-the-badge&logo=jupyter&logoColor=white)
 ![Canva](https://img.shields.io/badge/Canva-%2300C4CC.svg?style=for-the-badge&logo=Canva&logoColor=white)
 ![Power BI](https://img.shields.io/badge/powerbi-%23F2C811.svg?style=for-the-badge&logo=power-bi&logoColor=black)
+![Google Colab](https://img.shields.io/badge/Google%20Colab-F9AB00?style=for-the-badge&logo=googlecolab&logoColor=white)
 
 
 
